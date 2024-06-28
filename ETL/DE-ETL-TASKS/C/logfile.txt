@@ -1,0 +1,14 @@
+ETL Process Started   21-Aug-2023-14:41:29
+
+Extract Phase Started   21-Aug-2023-14:41:29
+
+Extract Phase Ended   21-Aug-2023-14:42:12
+
+Transform Phase Started   21-Aug-2023-14:43:14
+
+Transform Phase Ended   21-Aug-2023-14:44:47
+
+Load Phase Started   21-Aug-2023-14:45:12
+
+Load Phase Ended   21-Aug-2023-14:45:28
+
