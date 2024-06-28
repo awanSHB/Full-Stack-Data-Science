@@ -1,0 +1,8 @@
+copy_id,book_id,Status
+1,1,Available
+2,2,Checked Out
+3,3,On Hold
+4,4,In Transit
+5,5,Damaged
+6,6,Reserved
+7,7,On Display

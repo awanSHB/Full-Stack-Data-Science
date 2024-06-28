@@ -1,0 +1,8 @@
+borrower_id,first_name,last_name,Email,Phone,Address,City,Country
+1,John,Doe,johndoe@example.com,555-123-4567,123 Main St,New York,USA
+2,Alice,Smith,alicesmith@example.com,555-987-6543,456 Elm St,Los Angeles,USA
+3,Robert,Johnson,robertjohnson@example.com,555-555-5555,789 Oak St,Chicago,USA
+4,Emily,Brown,emilybrown@example.com,555-333-2222,101 Pine St,San Francisco,USA
+5,Michael,Williams,michaelwilliams@example.com,555-777-8888,222 Maple St,Miami,USA
+6,Susan,Miller,susanmiller@example.com,555-444-9999,555 Birch St,Boston,USA
+7,David,Jones,davidjones@example.com,555-111-3333,333 Cedar St,Seattle,USA

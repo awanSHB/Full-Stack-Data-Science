@@ -1,0 +1,18 @@
+Policy Detail,,,,,,Customer Detail,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Customer_id,Policy_id,Product_id,Premium,,,Customer_ID,Name,Gender,Age,City,Vintage(In months),,Name,Gender,Age,City,Product type
+1,1001,2,250,,,1,John Doe,Male,32,New York,24,,John Doe,Male,32,New York,Pension
+2,1002,2002,300,,,2,Jane Smith,Female,28,Los Angeles,36,,Jane Smith,Female,28,Los Angeles,
+3,1003,2001,200,,,3,Michael Johnson,Male,45,Chicago,48,,Michael Johnson,Male,45,Chicago,
+4,1004,2003,350,,,4,Emily Brown,Female,35,Houston,12,,Emily Brown,Female,35,Houston,
+5,1005,2002,275,,,5,David Davis,Male,40,Miami,60,,David Davis,Male,40,Miami,
+6,1006,2001,225,,,6,Sarah Wilson,Female,27,Seattle,18,,Sarah Wilson,Female,27,Seattle,
+7,1007,2003,375,,,7,Robert Green,Male,55,San Francisco,72,,Robert Green,Male,55,San Francisco,
+8,1008,2001,275,,,8,Lisa Anderson,Female,33,Dallas,14,,Lisa Anderson,Female,33,Dallas,
+9,1009,2002,325,,,9,Michaela Thompson,Female,42,Boston,20,,Michaela Thompson,Female,42,Boston,
+10,1010,2003,400,,,10,Andrew Carter,Male,38,Atlanta,30,,Andrew Carter,Male,38,Atlanta,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,Product detail,,,,,,,,,,,,,,
+,,,Product ID,1,2,3,4,,,,,,,,,,
+,,,Product type,Child Plan,Pension,Investment,Protection,,,,,,,,,,
